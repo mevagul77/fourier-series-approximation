@@ -9,7 +9,7 @@ Numerical implementation and harmonic convergence analysis of the non-periodic f
 * **Convergence Evaluation:** Comparative harmonic synthesis across $N \in \{2, 5, 10, 50, 100\}$.
 
 ## Results & Output
-![Fourier Series Approximation](fourier_series_approximation.png)
+
 
 ## Technologies
 * Python (NumPy, SciPy, Matplotlib)
